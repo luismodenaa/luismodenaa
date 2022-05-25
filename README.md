@@ -5,7 +5,7 @@
 - ✨ Tive meu contato com programação aos 15 anos, mas nunca cheguei a criar algo. Agora em 2022, terminando o Ensino Médio, tive a oportunidade de entrar de cabeça na programação
 
 <div>
-<a href="https://github.com/imthedaniel">
+<a href="https://github.com/luismodenaa">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luismodenaa&show_icons=true&theme=tokyonight&custom_title=My%20Github%20Stats"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismodenaa&layout=compact&theme=tokyonight"/>
 </div>
@@ -30,7 +30,7 @@
 
 
  
-
+ ![Snake animation](https://github.com/luismodenaa/luismodenaa/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
