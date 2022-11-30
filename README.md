@@ -30,7 +30,7 @@
 
  
   <table>
-  <tr>
+
     <td valign="top">
       <img height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismodenaa&langs_count=8&theme=vision-friendly-dark&hide_border=true"> 
       <img height="194px" src="https://github-readme-stats.vercel.app/api?username=luismodenaa&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
@@ -41,7 +41,7 @@
       
       
       
-  </tr>
+
 </table>
 
   
