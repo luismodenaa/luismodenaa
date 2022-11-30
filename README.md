@@ -10,7 +10,7 @@
 
 
 
-<div align="center">
+<div align="center" display="flex">
   <div align="right">
 
   <img height="194px" src="https://github-readme-stats.vercel.app/api?username=luismodenaa&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
