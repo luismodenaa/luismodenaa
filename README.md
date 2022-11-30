@@ -3,8 +3,8 @@
   <h1>
      Oi, meu nome é <a href="https://www.linkedin.com/in/luismodeena/" _blank>Luis Gabriel Modena</a>
   </h1>
-  🔎 Estou a procura de uma vaga para Desenvolvedor Front-end
-  💼 Deseja entrar em contato ? luisgabriel.modena326@gmail.com
+  <p>🔎 Estou a procura de uma vaga para Desenvolvedor Front-end</p>
+  <p>💼 Deseja entrar em contato ? luisgabriel.modena326@gmail.com</p>
   
 
 **Linguagens e ferramentas:**  
