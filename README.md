@@ -26,22 +26,18 @@
 <div align="center">
   
   
- [![GitHub Streak](https://streak-stats.demolab.com?user=luismodenaa&theme=dark&hide_border=true&locale=pt-br)](https://git.io/streak-stats)
+ [![GitHub Streak](https://streak-stats.demolab.com?user=luismodenaa&theme=midnight-purple&hide_border=true)](https://git.io/streak-stats)
 
  
   <table>
-
+    <tr>
     <td valign="top">
-      <img height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismodenaa&langs_count=8&theme=vision-friendly-dark&hide_border=true"> 
-      <img height="194px" src="https://github-readme-stats.vercel.app/api?username=luismodenaa&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+      <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismodenaa&langs_count=8&theme=midnight-purple&hide_border=true"> 
     </td>
-    
-      
-      
-      
-      
-      
-
+      <td valign="top">
+              <img height="300px" src="https://github-readme-stats.vercel.app/api?username=luismodenaa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+      </td>
+  </tr>
 </table>
 
   
