@@ -1,7 +1,7 @@
 
 <div align='center'>
   <h1>
-     Oi, meu nome é <a href="https://www.linkedin.com/in/luismodeena/">Luis Gabriel Modena</a>
+     Oi, meu nome é <a href="https://www.linkedin.com/in/luismodeena/" _blank>Luis Gabriel Modena</a>
   </h1>
   <p>🔎 Estou a procura de uma vaga para Desenvolvedor Front-end.</p>
 </div>
