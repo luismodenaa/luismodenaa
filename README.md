@@ -18,8 +18,9 @@
   
 
   
-  
+  <div align="center">
   [![GitHub Streak](https://streak-stats.demolab.com?user=luismodenaa&theme=dark&hide_border=true&locale=pt-br)](https://git.io/streak-stats)
+  </div>
   
 
 </div>
