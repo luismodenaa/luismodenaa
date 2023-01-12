@@ -32,10 +32,10 @@
   <table>
     <tr>
     <td valign="top">
-      <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismodenaa&langs_count=8&theme=midnight-purple&hide_border=true"> 
+      <img height="300px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luismodenaa&langs_count=8&theme=midnight-purple&hide_border=true"> 
     </td>
       <td valign="top">
-              <img height="300px" src="https://github-readme-stats.vercel.app/api?username=luismodenaa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+              <img height="300px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=luismodenaa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
       </td>
   </tr>
 </table>
