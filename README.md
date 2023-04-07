@@ -3,7 +3,7 @@
   <h1>
      Oi, meu nome é <a href="https://www.linkedin.com/in/luismodeena/" _blank>Luis Gabriel Modena</a>
   </h1>
-  <p>🔎 Estou a procura de uma vaga para Desenvolvedor Full-Stack</p>
+  <p>💻 Sou Desenvolvedor de Software na Movingpay!</p>
   <p>💼 Deseja entrar em contato ? luisgabriel.modena326@gmail.com</p>
   
 
