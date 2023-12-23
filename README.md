@@ -10,6 +10,8 @@
 **Linguagens e ferramentas:**  
 
 
+<code><img height="20" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/net-framework.png"></code>
 <code><img height="20" src="https://img.icons8.com/fluency/48/000000/typescript.png"></code>
 <code><img height="20" src="https://img.icons8.com/plasticine/100/000000/react.png"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/javascript--v1.png"></code>
